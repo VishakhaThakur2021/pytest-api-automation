@@ -1,5 +1,3 @@
-# pytest-api-automation
-In this project api endpoints are automated using pytest framework
 # Pytest - Automated station compliance api tests results
 
 🚀 
